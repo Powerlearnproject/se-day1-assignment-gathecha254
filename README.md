@@ -1,28 +1,30 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=18386388&assignment_repo_type=AssignmentRepo)
+
 SE_Day1_Assignment
 
 #Part 1: Introduction to Software Engineering
 
 1.Explain what software engineering is and discuss its importance in the technology industry
+
 software engineering is a branch of computer science used for developing, testing and maintaining software.
 reliability- it ensures software performs as expected without bias especially for critical applications like healthcare ,finance. 
 efficiency - it helps to optimize developer workflow while maintaining high quality standards.
- scalability and flexibility - it ensures that the system can handle an increased load without affecting performance.
- security - implement protection practice like authentication, authorization and encryption to secure users information. Identify and describe at least three key milestones in the evolution of software engineering.
+scalability and flexibility - it ensures that the system can handle an increased load without affecting performance.
+security - implement protection practice like authentication, authorization and encryption to secure users information. Identify and describe at least three key milestones in the evolution of software engineering.
 
 
 2.Identify and describe at least three key milestones in the evolution of software engineering.  
-.mastering complexity
+Mastering complexity
 Mastering process
 Mastering machine
 
 
 List and briefly explain the phases of the Software Development Life Cycle.
- planning - identify the software requirement or purpose and scope.
- requirement analysis - identify the final user specification. 
+planning - identify the software requirement or purpose and scope.
+requirement analysis - identify the final user specification. 
 design - building the framework. 
 coding - converting software design into tangible code.
- testing - examine the software for any bugs and glitches
+testing - examine the software for any bugs and glitches
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
 waterfall methodology - Linear and sequential, each phase is completed before moving on. 
 - there is Low flexibility,
