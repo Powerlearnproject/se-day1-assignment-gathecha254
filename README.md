@@ -1,10 +1,10 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=18386388&assignment_repo_type=AssignmentRepo)
 
-SE_Day1_Assignment
+#SE_Day1_Assignment
 
 #Part 1: Introduction to Software Engineering
 
-1.Explain what software engineering is and discuss its importance in the technology industry
+##1. Explain what software engineering is and discuss its importance in the technology industry
 
 software engineering is a branch of computer science used for developing, testing and maintaining software.
 
@@ -16,14 +16,14 @@ iii. scalability and flexibility - it ensures that the system can handle an incr
 iv. security - implement protection practice like authentication, authorization and encryption to secure users information. Identify and describe at least three key milestones in the evolution of software engineering.
 
 
-2.Identify and describe at least three key milestones in the evolution of software engineering.  
+##2. Identify and describe at least three key milestones in the evolution of software engineering.  
 
 i. Mastering complexity
 ii. Mastering process
 iii. Mastering machine
 
 
-List and briefly explain the phases of the Software Development Life Cycle.
+##3. List and briefly explain the phases of the Software Development Life Cycle.
 
 i. planning - identify the software requirement or purpose and scope.
 ii. requirement analysis - identify the final user specification. 
@@ -31,7 +31,7 @@ iii. design - building the framework.
 iv. coding - converting software design into tangible code.
 v. testing - examine the software for any bugs and glitches.
 
-Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
+##4. Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
 
 waterfall methodology - Linear and sequential, each phase is completed before moving on. 
 - there is Low flexibility,
@@ -46,7 +46,7 @@ Agile methodology - Iterative and incremental, with multiple cycles (sprints).
 - Testing is continuous and done after each iteration.
 
 
-Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
+##5. Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
 
 Software Developer: 
 - developing applications,programs and systems using programming languages and frameworks.
@@ -69,7 +69,7 @@ Project Manager:
 - deliver the complete software to the client and regularly check its performance.
 
 
-Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
+##6. Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
 
 An integrated development environment (IDE) is a software platform that facilitates the creation of other software applications by providing a space to write, compile, and debug code, sometimes with value-adding tools that reduce development efforts. eg Visual Studio Code (VSCode)
 
@@ -83,7 +83,7 @@ Programming languages have rules for how statements must be structured. Because 
 - The IDE allows developers to automate unit tests locally before the software is integrated with other developers' code and more complex integration tests are run.
 - Debugging IDE enables a step through the code, line by line, as it runs and inspect code behavior. IDEs also integrate several debugging tools that highlight bugs caused by human error in real time, even as the developer is typing.
 
-Version Control Systems (VCS) - are software tools that help software teams manage changes to source code over time. eg Git
+##7. Version Control Systems (VCS) - are software tools that help software teams manage changes to source code over time. eg Git
 
 importance:
 - Collaboration: Enables multiple developers to work on the same codebase without conflicts.
@@ -91,7 +91,7 @@ importance:
 - Branching and Merging: Supports creating branches for new features and merging them back into the main code.
 - Error Recovery: Allows reverting to previous versions if new changes introduce errors
 
-What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
+##8. What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
 
 i. Rapid technological advancement places considerable pressure on software engineers to stay current.
 
@@ -118,7 +118,7 @@ vi. Software Accessibility and Usability - Overly complex software can frustrate
 Solution: Use scalable architecture, emphasize reliability.
 
 
-Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
+##9. Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
 
 - Unit tests - are close to the source of an application, They consist in testing individual methods and functions of the classes, components, or modules used by your software. - it ensures that each unit performs its intended function correctly, isolated from other components.
 - Integration tests - verify that different modules or services used by your application work well together.
@@ -131,7 +131,7 @@ Acceptance tests - are formal tests that verify if a system satisfies business r
 
 #Part 2: Introduction to AI and Prompt Engineering
 
-Define prompt engineering and discuss its importance in interacting with AI models.
+##10. Define prompt engineering and discuss its importance in interacting with AI models.
 
 prompt engineering  is the process where you guide generative AI solutions to generate desired outputs.
 
@@ -140,7 +140,7 @@ Importance:
 - Increased flexibility - A prompt engineer can create prompts with domain-neutral instructions highlighting logical links and broad patterns.
 - Developer control - Prompt engineering gives developers more control over users' interactions with the AI. Effective prompts provide intent and establish context to the large language models. Provide an example of a vague prompt and then improve it by making it clear, specific, and concise.
 
-Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+##11. Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
 
 i. Draw a picture of a person
 - Draw a full-body portrait of a young woman with long brown hair, wearing a red jacket and blue jeans, standing in a park on a sunny day with trees and grass in the background.
